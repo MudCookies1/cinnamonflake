@@ -1,3 +1,9 @@
+layout: page
+title: "CF Home"
+permalink: /home
+
+
+
 # this is the home area
 
 testing, testing, 123!!
